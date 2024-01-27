@@ -50,7 +50,7 @@ The Support Vector Machine classifier exhibited superior performance, highlighti
 
 ## Contributing
 
-Provide guidelines for others who want to contribute to your project. Include instructions on how to set up a development environment, guidelines for code style, and the contribution process.
+If you want to collaborate or make a contribution on this project you can reach me via Email : thibauttebi@gmail.com
 
 ## License
 
