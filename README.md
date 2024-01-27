@@ -54,7 +54,7 @@ If you want to collaborate or make a contribution on this project you can reach 
 
 ## License
 
-This project is licensed under the [Your License Name](LICENSE) 
+This project is licensed under MIT License ( https://github.com/thibaut-tebi/ECG-signal-Classification-for-early-detection-of-cardiovascular-diseases/blob/main/LICENSE ) 
 
 Copyright (c) 2024 Thibaut K. Tebi
 
