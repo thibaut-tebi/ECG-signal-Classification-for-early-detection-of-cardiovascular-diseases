@@ -12,7 +12,8 @@ The Electrocardiogram (ECG) is an essential diagnostic tool that records heart a
 
 # ECG Signal Classification Project
 
-![ECG Image](insert_image_url_here)
+![ECG Classification Process](![image](https://github.com/thibaut-tebi/ECG-signal-Classification-for-early-detection-of-cardiovascular-diseases/assets/113062383/8b957f09-f0b8-44fb-b38e-d4c37b6690be)
+)
 
 ## Table of Contents
 
@@ -47,7 +48,7 @@ Explain how to use your project. Provide code examples and instructions if neces
 
 ## Dataset
 
-The ECG data used in this project was obtained from the PhysioNet's PTB-XL diagnostic ECG Database. It underwent preprocessing using Discrete Wavelet Transform (DWT) for noise reduction and feature extraction.
+The ECG data used in this project was obtained from the PhysioNet's PTB-XL diagnostic ECG Database. It underwent preprocessing using Discrete Wavelet Transform (DWT) for noise reduction and feature extraction. You can find the code to the data here: https://physionet.org/content/ptbdb/1.0.0/
 
 ## Methodology
 
