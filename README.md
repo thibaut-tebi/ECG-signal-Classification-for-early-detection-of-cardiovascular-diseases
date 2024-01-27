@@ -54,7 +54,9 @@ If you want to collaborate or make a contribution on this project you can reach 
 
 ## License
 
-This project is licensed under the [Your License Name](LICENSE) - replace with your project's license information.
+This project is licensed under the [Your License Name](LICENSE) 
+
+Copyright (c) 2024 Thibaut K. Tebi
 
 
 
