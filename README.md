@@ -46,7 +46,7 @@ The experimental results demonstrate the following accuracy levels:
 Model Performance 
 ![image](https://github.com/thibaut-tebi/ECG-signal-Classification-for-early-detection-of-cardiovascular-diseases/assets/113062383/76823f42-0a7c-4ef1-85d8-addd57e4f6ab)
 
-The Support Vector Machine classifier exhibited superior performance, highlighting its potential in ECG signal classification.
+The Support Vector Machine classifier exhibited superior performance, highlighting its potential in ECG signal classification.https://github.com/thibaut-tebi/ECG-signal-Classification-for-early-detection-of-cardiovascular-diseases/blob/main/ECG%20classification%20code.ipynb
 
 ## Contributing
 
