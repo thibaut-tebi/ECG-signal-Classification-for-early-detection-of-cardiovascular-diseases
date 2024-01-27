@@ -12,8 +12,8 @@ The Electrocardiogram (ECG) is an essential diagnostic tool that records heart a
 
 # ECG Signal Classification Project
 
-![ECG Classification Process](![image](https://github.com/thibaut-tebi/ECG-signal-Classification-for-early-detection-of-cardiovascular-diseases/assets/113062383/8b957f09-f0b8-44fb-b38e-d4c37b6690be)
-)
+![ECG Classification Process](https://github.com/thibaut-tebi/ECG-signal-Classification-for-early-detection-of-cardiovascular-diseases/assets/113062383/8b957f09-f0b8-44fb-b38e-d4c37b6690be)
+
 
 ## Table of Contents
 
